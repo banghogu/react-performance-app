@@ -8,7 +8,7 @@
 
 #### 완성 페이지
 
-![업로드중..](blob:https://velog.io/52f411ec-b3e2-498d-8669-f7fffeeb3a60)
+![](blob:https://velog.io/52f411ec-b3e2-498d-8669-f7fffeeb3a60)
 
 
 **프로젝트 설명 : jsonplaceholder를 이용하여 fake data를 받아오고, 이를 보여주는 왼쪽의 A컴포넌트와 오른쪽의 B컴포넌트는 기능적으로 유사하지만, 각 컴포넌트는 다른 성능을 보여준다.**
@@ -20,12 +20,12 @@
 먼저 리액트 성능을 측정하는 크롬 도구를 다운받는다.
 https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ko&
 
-![업로드중..](blob:https://velog.io/ff51a8c5-a622-4aca-a993-eece53f0ffd2)
+![](blob:https://velog.io/ff51a8c5-a622-4aca-a993-eece53f0ffd2)
 
 도구 설정 중 highlight에 체크하면 현재 리렌더링 되는 요소가 어떤 요소인지 표시해준다.
 
-![업로드중..](blob:https://velog.io/e4dccd24-6233-46de-9c4a-5c040445658b)
-![업로드중..](blob:https://velog.io/d940c8f2-a22b-4149-90f7-8b56284dfa26)
+![](blob:https://velog.io/e4dccd24-6233-46de-9c4a-5c040445658b)
+![](blob:https://velog.io/d940c8f2-a22b-4149-90f7-8b56284dfa26)
 
 녹화 버튼을 누를 시 각 컴포넌트에 대해 성능을 측정해준다.
 
